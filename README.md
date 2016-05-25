@@ -1,6 +1,6 @@
 # FSMBUS
 
-### The Algorithm about frequent subgraph mining using Spark
+### The Algorithm about frequent subgraph mining in single graph using Spark
 
 you can run the algorithm as follows:
 
